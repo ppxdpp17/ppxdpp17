@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm pp.</h1>
-<h3 align="center">A passionate full-stack developer from Portugal.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppxdpp17&label=Profile%20views&color=0e75b6&style=flat" alt="ppxdpp17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ppxdpp17" alt="ppxdpp17" /></a> </p>
+<h3 align="center">A passionate full-stack developer from FEC.</h3>
 
 - 🔭 I’m currently working on [project learn](https://projectlearn.io/#categories)
 
