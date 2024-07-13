@@ -1,25 +1,13 @@
-<h1 align="center">Hi 👋, I'm pp.</h1>
-<h3 align="center">A passionate full-stack developer from FEC.</h3>
+Hi there👋.
+My name is pp and I'm a full-stack developer from FEC.</h3>
 
-- 🔭 I’m currently working on [project learn](https://projectlearn.io/#categories)
+- 🔭 I’m currently testing [project learn](https://projectlearn.io/#categories).
 
 - 🌱 I’m currently learning **many things.**
 
 - 👯 I’m looking to collaborate on **teams.**
+  -   Talk to me  .
 
-- 🤝 I’m looking for help with **getting money.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ppxdpp17?tab=repositories](https://github.com/ppxdpp17?tab=repositories)
-
-- 📝 I regularly write articles on [scholar.](scholar.)
-
-- 💬 Ask me about **whatever.**
-
-- 📫 How to reach me **dont@mail.com.**
-
-- 📄 Know about my experiences [doesn't matter.](doesn't matter.)
-
-- ⚡ Fun fact **Cats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
